@@ -1,6 +1,6 @@
 # Bulk Image Renamer
 
-This Python script is designed to bulk rename image files within a specified folder. It sequentially renames each file to a specified format, allowing for easy organization and management of image files.
+This Python script is designed to Bulk Image Renamer within a specified folder. It sequentially renames each image file to a specified format, allowing for easy organization and management of image files.
 
 ## Features
 
@@ -13,16 +13,16 @@ This Python script is designed to bulk rename image files within a specified fol
 1. **Clone Repository**: Clone this repository to your local machine using Git.
 
    ```
-   git clone https://github.com/your-username/bulk-image-renamer.git
+   git clone https://github.com/imrabbihasan/BulkFilesRenamer.git
    ```
 
 2. **Navigate to Directory**: Enter the directory of the cloned repository.
 
    ```
-   cd bulk-image-renamer
+   cd BulkFilesRename
    ```
 
-3. **Specify Folder Path**: Open the Python script (`bulk_image_renamer.py`) and specify the folder path containing the images you want to rename. 
+3. **Specify Folder Path**: Open the Python script (`main.py`) and specify the folder path containing the images you want to rename. 
 
    ```python
    path = "your/folder/path/"
