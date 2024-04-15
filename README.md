@@ -31,7 +31,7 @@ This Python script is designed to bulk rename image files within a specified fol
 4. **Run the Script**: Execute the Python script.
 
    ```
-   python bulk_image_renamer.py
+   python main.py
    ```
 
 5. **Check Output**: Once the script finishes executing, check the specified folder to verify that the images have been renamed successfully.
